@@ -27,8 +27,8 @@ Siendo 0, 1 y 2 los links correspondientes en `./cfg.py`, agregando uno (o más)
 *Solo funcional para crear la primer tabla*
 
 ## Resultados
-![table1](https://github.com/nico30994/data_analytics_challenge/blob/main/imgs/table1.jpg)
-![table2](https://github.com/nico30994/data_analytics_challenge/blob/main/imgs/table2.jpg)
+![table1](https://github.com/nico30994/data_analytics_challenge/blob/main/imgs/table1.JPG)
+![table2](https://github.com/nico30994/data_analytics_challenge/blob/main/imgs/table2.JPG)
 
 ## To-Do
 * Cambiar prints por logging
